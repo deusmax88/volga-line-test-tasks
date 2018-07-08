@@ -1,0 +1,9 @@
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (1, 1, '123');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (2, 1, '456');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (3, 1, '789');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (4, 2, '123');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (5, 2, '456');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (6, 2, '789');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (7, 3, '123');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (8, 3, '456');
+INSERT INTO test.phone_numbers (id, user_id, phone) VALUES (9, 3, '789');
